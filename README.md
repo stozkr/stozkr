@@ -1,2 +1,0 @@
-# stozkr
-Curriculum vitae
